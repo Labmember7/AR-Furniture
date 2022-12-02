@@ -1,4 +1,4 @@
-<h1 align="center"> AR Project IVA </h1>
+<h1 align="center"> AR Furniture</h1>
 
 
 ![AR](https://user-images.githubusercontent.com/60778237/205284458-d432e027-d76e-4307-81f1-dd59316741f8.gif)
